@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Atha</h1>
-<h3 align="center">A DS & ML Enthusiast</h3>
 
+<h3 align="center">I am a DS & ML Enthusiast</h3>
+<img src="https://s27389.pcdn.co/wp-content/uploads/2021/07/data-science-predictions-for-near-future-1024x440.jpeg.optimal.jpeg" alt="" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athagaurav10&label=Profile%20views&color=0e75b6&style=flat" alt="athagaurav10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athagaurav10" alt="athagaurav10" /></a> </p>
