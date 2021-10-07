@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Atha</h1>
-<h3 align="center">A passionate about DS & ML</h3>
+<h3 align="center">A DS & ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athagaurav10&label=Profile%20views&color=0e75b6&style=flat" alt="athagaurav10" /> </p>
 
